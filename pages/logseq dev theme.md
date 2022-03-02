@@ -1,6 +1,7 @@
-src:: [pengx17/logseq-dev-theme: logseq](https://github.com/pengx17/logseq-dev-theme)
-type:: logseq theme
+public:: true
 
+- src:: [pengx17/logseq-dev-theme: logseq](https://github.com/pengx17/logseq-dev-theme)
+  type:: logseq theme
 # H1 Title
 - ## H2 Sub Title
 - ### H3 Section Title
